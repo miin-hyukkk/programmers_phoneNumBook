@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://{miin-hyukkk}.github.io/{programmers_phoneNumBook}",
+  "homepage": "https://miin-hyukkk.github.io/programmers_phoneNumBook",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
